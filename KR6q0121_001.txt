@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:29.626083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:08
 #+TITLE: 定慧相資歌
 #+PROPERTY: CBETA_ID X63n1229
 #+PROPERTY: ID KR6q0121
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 63, No. 1229
 #+PROPERTY: VOL 63
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0121_X_001-0080b> 
 #+PROPERTY: JUAN 1
-No.1229¶
-
- 定慧相資歌¶
+No. 1229¶
+定慧相資歌¶
 ¶
 
 祖教宗中有二門。十度萬行稱為尊。初名止觀助新¶
