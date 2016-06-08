@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:29.626083
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:08
 #+TITLE: 定慧相資歌
 #+PROPERTY: CBETA_ID X63n1229
 #+PROPERTY: ID KR6q0121
